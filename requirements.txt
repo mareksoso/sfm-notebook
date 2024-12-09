@@ -1,7 +1,7 @@
 numpy
 matplotlib
 pandas
-opencv-python
+opencv-python-headless
 opencv-contrib-python
 scipy
 torch

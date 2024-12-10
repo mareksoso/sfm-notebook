@@ -4,7 +4,5 @@ pandas
 opencv-python-headless
 opencv-contrib-python
 scipy
-torch
-torchvision
 plotly
 notebook
